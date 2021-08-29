@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RukmaniVaithy
-
-https://rukmanivaithy.medium.com/
+- I write at: https://rukmanivaithy.medium.com/
 
 <!---
 RukmaniVaithy/RukmaniVaithy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
